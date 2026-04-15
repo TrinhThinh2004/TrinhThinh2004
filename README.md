@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Hello%2C%20TrinhThinh2004-000000?style=for-the-badge&logo=starship&logoColor=white"alt="Header" />
+<img src="https://img.shields.io/badge/Hello%2C%20TrinhThinh2004-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
   <h1>🌌 Welcome to my universe!</h1>
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
