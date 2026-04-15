@@ -19,8 +19,8 @@
 ### 💻 About Me
 
 - ⚙️ Backend Developer  
--🚀 Building real-world systems  
--🧠 Learning system design & microservices  
+- 🚀 Building real-world systems  
+- 🧠 Learning system design & microservices  
 
 <br>
 
